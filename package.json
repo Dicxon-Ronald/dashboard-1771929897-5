@@ -1,0 +1,13 @@
+{
+  "name": "dashboard-1771929897-5",
+  "version": "1.0.0",
+  "description": "Professional library for modern development",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint src"
+  },
+  "author": "99b2965b6a",
+  "license": "MIT"
+}
